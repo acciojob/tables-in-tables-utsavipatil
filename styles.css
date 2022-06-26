@@ -17,3 +17,36 @@
     align-items: center;
     justify-content: center;
 }
+
+.t1, td , th ,.t2{
+    text-align: center;
+    border: 3px solid black;
+    margin: 10% 0 10% 0;
+    font-size: 40px;
+}
+
+.t1, .t2 ,.t3 ,.t4{
+    width: 100%;
+}
+
+.nested{
+    font-weight: bold;
+}
+
+.coloured{
+    color: purple;
+    text-decoration: underline;
+}
+
+.row{
+    column-width: 10000px;
+}
+
+.bold{
+    color: white;
+    background-color: black;
+}
+
+.main{
+    column-width: 50px;
+}
